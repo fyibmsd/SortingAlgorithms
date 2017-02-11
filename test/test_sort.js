@@ -15,4 +15,6 @@ describe("Test sort algorithms", () => {
     it("Test insertion sort", () => tester(Sort.insertionSort));
 
     it("Test shell sort", () => tester(Sort.shellSort));
+
+    it("Test counting sort", () => tester(Sort.shellSort));
 });
