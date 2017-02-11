@@ -16,5 +16,7 @@ describe("Test sort algorithms", () => {
 
     it("Test shell sort", () => tester(Sort.shellSort));
 
-    it("Test counting sort", () => tester(Sort.shellSort));
+    it("Test counting sort", () => tester(Sort.countingSort));
+
+    it("Test bucket sort", () => tester(Sort.bucketSort));
 });

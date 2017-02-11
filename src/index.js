@@ -6,5 +6,6 @@ module.exports = {
     selectionSort: require( './SelectionSort' ),
     insertionSort: require( './InsertionSort' ),
     shellSort    : require( './ShellSort' ),
-    countingSort : require( './CountingSort' )
+    countingSort : require( './CountingSort' ),
+    bucketSort   : require( './BucketSort' )
 };
