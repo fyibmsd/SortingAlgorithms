@@ -8,3 +8,4 @@
 - 选择排序 (selection sort)
 - 希尔排序 (shell sort)
 - 计数排序 (counting sort)
+- 桶排序 (bucket sort)
