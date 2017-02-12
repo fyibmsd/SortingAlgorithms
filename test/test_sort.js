@@ -19,4 +19,9 @@ describe("Test sort algorithms", () => {
     it("Test counting sort", () => tester(Sort.countingSort));
 
     it("Test bucket sort", () => tester(Sort.bucketSort));
+
+    it("Test heap sort", () => tester(Sort.heapSort));
+
+
+    it("Test merge sort", () => tester(Sort.mergeSort));
 });

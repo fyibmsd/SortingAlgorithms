@@ -9,3 +9,5 @@
 - 希尔排序 (shell sort)
 - 计数排序 (counting sort)
 - 桶排序 (bucket sort)
+- 堆排序 (heap sort)
+- 归并排序 (merge sort)

@@ -7,5 +7,7 @@ module.exports = {
     insertionSort: require( './InsertionSort' ),
     shellSort    : require( './ShellSort' ),
     countingSort : require( './CountingSort' ),
-    bucketSort   : require( './BucketSort' )
+    bucketSort   : require( './BucketSort' ),
+    heapSort     : require( './HeapSort' ),
+    mergeSort    : require( './MergeSort' )
 };
